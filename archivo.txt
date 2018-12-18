@@ -1,0 +1,2 @@
+{'oli': {'nombreCampo': 'cam1', 'lonCampo': 15, 'tipoDato': 'int'}, 'bai': {'nombreCampo': 'cam2', 'lonCampo': 15, 'tipoDato': 'string'}}
+____________ujn____________nju|____________ujn____________nju|____________ujn____________nju|____________ujn____________nju|____________aso____________nju|____________osa____________nju|
